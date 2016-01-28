@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/exolabcore-0.3.7.jar"/>
+	<classpathentry kind="lib" path="lib/jms-1.0.2a.jar"/>
+	<classpathentry kind="lib" path="lib/jndi-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/openjms-client-0.7.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
